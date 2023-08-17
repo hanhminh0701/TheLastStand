@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40c60c815efb7bd458d972d28b5f17b0, type: 3}
+  m_Name: AK47
+  m_EditorClassIdentifier: 
+  Type: 0
+  tag: AK47
+  impactTag: Fire Explosion
+  ammo: 30
+  icon: {fileID: 21300000, guid: c40b5e7fae90a554d87241f652b075fa, type: 3}
+  damage: 5
+  speed: 15
+  range: 15
+  cooldown: 1
+  armor: 0
+  regen: 0

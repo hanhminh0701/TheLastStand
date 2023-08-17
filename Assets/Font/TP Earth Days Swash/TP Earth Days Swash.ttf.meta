@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e246cb1f48777804fb2c48b24538998e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TP Earth Days
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3036539880dd74b4695ad28fa0d9758d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
