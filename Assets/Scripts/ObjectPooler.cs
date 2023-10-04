@@ -1,4 +1,3 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -8,6 +7,7 @@ public class ObjectPooler : MonoBehaviour
     public static ObjectPooler Ins;
     private void Awake() => Ins = this;
     #endregion
+
     [System.Serializable]
     public class Pool
     {
